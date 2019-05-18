@@ -24,3 +24,4 @@
 <p align="center">2019</p>
 
 ---
+Решены suzen1-3, suzen15-19, suzen26-27
